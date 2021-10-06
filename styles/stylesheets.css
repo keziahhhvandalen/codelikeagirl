@@ -2,6 +2,41 @@ body {
   background-color:lightblue
 }
 
-table {
-  background-color:yellow
+table{
+  border:solid;
+}
+
+
+
+.tab1 {
+  background-color:yellow;
+  border:solid;
+  width:100px;
+  height:100px;
+}
+
+.tab2 {
+  background-color: lightgreen;
+  border:solid;
+  width:100px;
+  height:100px;
+}
+
+h1{
+  color:blue;
+  height:100px;
+  background-color:grey;
+  /* padding-left:60px;
+  padding-top:100px;
+  paddding-bottom:300px; */
+  margin-left:60px;
+  margin-top:100px;
+  margin-bottom:300px;
+}
+
+#nav {
+  background-color: blue;
+  height: 100px;
+  width: 500px;
+  margin-left:30px;
 }
